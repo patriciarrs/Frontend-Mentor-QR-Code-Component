@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+
+.body {
+    background-color: hsl(212, 45%, 89%); /*light gray*/
+    display: flex;
+    flex-direction: column;
+    font-family: Outfit;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+
+.component {
+    background-color: hsl(0, 0%, 100%); /*white*/
+    border-radius: 20px;
+    box-shadow: 0px 4px 10px -5px hsl(0, 0%, 59%);
+    height: 497px;
+    margin: auto;
+    padding: 16px 0;
+    width: 320px;
+}
+
+.image {
+    border-radius: 20px;
+    height: 288px;
+    width: 288px;
+}
+
+.copywrite {
+    padding: 0 28px;
+}
+
+.heading {
+    color: hsl(218, 44%, 22%); /*dark blue*/
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.paragraph {
+    color: hsl(220, 15%, 55%); /*grayish blue*/
+    font-size: 15px;
+}
+
+.attribution {
+    font-size: 11px;
+    font-style: italic;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
