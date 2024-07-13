@@ -41,7 +41,7 @@
 .heading {
     color: hsl(218, 44%, 22%); /*dark blue*/
     font-size: 22px;
-    font-weight: bold;
+    font-weight: 700;
     margin: 24px 0 16px;
 }
 
