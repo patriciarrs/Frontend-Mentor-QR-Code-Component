@@ -41,7 +41,7 @@ I also learned how to use Figma to find out the font size, the spacing between e
 
 ### Useful resources
 
-- [Box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing#try_it) - It is often useful to set box-sizing to border-box to lay out elements. This makes dealing with the sizes of elements much easier, and generally eliminates a number of pitfalls. I really liked this pattern and will use it going forward.
+- [Box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing#try_it) - It is often useful to set `box-sizing` to `border-box` to lay out elements. This makes dealing with the sizes of elements much easier, and generally eliminates a number of pitfalls. I really liked this pattern and will use it going forward.
 
 ## Author
 
