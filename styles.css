@@ -4,7 +4,7 @@
 
 .body {
     background-color: hsl(212, 45%, 89%); /*light gray*/
-    font-family: Outfit;
+    font-family: Outfit, sans-serif;
     height: 100vh;
     margin: 0;
     text-align: center;
